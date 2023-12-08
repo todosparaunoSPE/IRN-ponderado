@@ -32,7 +32,7 @@ import streamlit.web.cli
 #st.title("Subdirección de Planeación Estratégica")
 
 
-st_lottie(lottie_hello, key = "hello")
+#st_lottie(lottie_hello, key = "hello")
 
 #st.subheader("Tablas y grágicos")
 
