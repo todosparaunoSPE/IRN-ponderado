@@ -40,6 +40,7 @@ import streamlit.web.cli
 
 st.subheader("Indicador de rendimiento neto IRN")
 st.header("ene-2021 a oct-2023")
+st.subheader("Datos obtenidos de la página de la CONSAR")
 
 st.subheader(" ")
 st.subheader(" ")
